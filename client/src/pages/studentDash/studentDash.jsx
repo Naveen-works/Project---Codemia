@@ -3,7 +3,7 @@ import './studentDash.css';
 const StudentDash = () => {
     return (
         <div>
-            
+            Student Dashboard
         </div>
     )
 }

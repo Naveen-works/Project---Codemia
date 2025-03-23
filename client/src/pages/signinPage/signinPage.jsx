@@ -4,7 +4,7 @@ import './signinPage.css';
 const SigninPage = () => {
     return (
         <div>
-            
+            Signin Page
         </div>
     )
 }
