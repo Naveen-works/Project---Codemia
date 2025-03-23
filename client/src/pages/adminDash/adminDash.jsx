@@ -1,6 +1,6 @@
 import React from 'react'
 import './adminDash.css'
-const adminDash = () => {
+const AdminDash = () => {
     return (
         <div>
             Admin Dashboard
@@ -8,4 +8,4 @@ const adminDash = () => {
     )
 }
 
-export default adminDash
+export default AdminDash
